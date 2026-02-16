@@ -14,6 +14,10 @@ The application is used to remove virus. One of the imported function of the app
 
 Note: The vulnerable driver will not be shared in this project.
 
+## Sample Output
+<img width="1045" height="447" alt="image" src="https://github.com/user-attachments/assets/d3ef3963-f328-498d-bdc1-9110ca069e68" />
+
+
 ## Disclaimer
 This tool is for educational and research purposes only. Use it only on systems you own or have explicit permission to test. The author is not responsible for any misuse or damage caused by this program.
 

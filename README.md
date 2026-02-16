@@ -1,4 +1,4 @@
-## CVE-2026-XXXXX
+## FocusKiller
 In QAX Virus Removal version dated 2025-10-22 and earlier, the affected driver `QKSecureIO_Imp.sys` rely on caller process's image to determine whether they are allowed to communicate to the mini filter driver. Attackers could 
 impersonate a legitimate caller process image through tactics such as DLL sideloading, Process Injection to send message with specific payload to the mini filter and perform 
 arbitrary process termination, such as protected process.
